@@ -1,0 +1,112 @@
+body {
+    background-image: url(/img/fondo4.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+    font-family: 'open sans';
+    font-size: 16px;
+}
+
+.login-form{
+    background-color: rgb(22, 144, 100,.8);
+    padding-left:4%;
+    padding-right: 4%;
+    padding-top: 1%;
+    margin-top:7.5%;
+    margin-left: 30%;
+    padding-bottom: 3%;
+    width: 35%;
+    border-radius: 7px;
+    float:left;
+}
+
+.login-form h1{
+    color: #3F3F3E;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Coiny', cursive;
+    font-size: 35px;
+    margin-top:25px;
+    border-bottom:1px solid #3F3F3E;
+}
+
+#img1{
+    width: 31%;
+    float:left;
+    border-radius: 150px;
+    margin-top: 7%;
+    margin-left: 5%;
+}
+#img2{
+    width: 40%;
+    border-radius: 7px;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    margin-left: 32%;
+}
+
+
+#usuario{
+    height:30%;
+    border:2px solid #3AF910;
+    font-size: 20px;
+    font-family: 'Slabo 27px', serif;
+    color: #0C1801;
+}
+#usuario:hover{
+    height:32%;
+    border:2px solid #7AF910;
+}
+#password{
+    height:30%;
+    border:2px solid #3AF910;
+    font-size: 20px;
+    font-family: 'Slabo 27px', serif;
+    color: #0C1801;
+}
+#password:hover{
+    height:32%;
+    border:2px solid #7AF910;
+}
+.boton{
+    width:100%;
+    padding:2%;
+    height:40%;
+    color:white;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Coiny', cursive;
+    font-size: 18px;
+    background:#3F3F3E;
+    border:2px solid #3F3F3E;
+    border-radius:10px;
+}
+.boton:hover{
+    width:100%;
+    padding:2%;
+    height:40%;
+    color:white;
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Coiny', cursive;
+    font-size: 18px;
+    background:#212121;
+    border:2px solid #212121;
+    border-radius:10px;
+}
+
+.navbar-brand{
+    font-family: 'Slabo 27px', serif;
+    margin-right: 25px;
+    margin-top: 5px;
+}
+
+.navbar-brand2{
+    font-family: 'Slabo 27px', serif;
+    margin-right: 25px;
+}
+
+.nav {
+    padding: 2px;
+}

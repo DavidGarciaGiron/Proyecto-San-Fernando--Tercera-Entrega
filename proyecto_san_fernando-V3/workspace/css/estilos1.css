@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=d31e02f5af&attid=0.1&permmsgid=msg-f:1622023021920464270&th=1682955837132d8e&view=att&disp=safe&realattid=16829551675eb4a438a1);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fff;
+    width: 100%;
+    height: 100vh;
+    font-family: 'open sans';
+    font-size: 16px;
+}
+
+.parte{
+    background-color:white;
+    width:45%;
+    height:155%;
+    padding:4%;
+    border-radius:20px;
+    float:left;
+    margin-left:50px;
+    margin-bottom:50px;
+    border: 1.5px solid orange;
+    padding-top:0;
+}
